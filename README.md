@@ -10,6 +10,9 @@ Delete Data : Deletes selected entry from the Database
 Search Data : It will serach for a mentioned record in the Database
 Exit : It will exit the system
 
+Interface:
+![image](https://user-images.githubusercontent.com/52834981/166113530-7158305a-3729-4b34-8a2e-28015b75bd5d.png)
+
 References Used : https://www.youtube.com/watch?v=nOxaSvArZ4E
 https://www.tutorialspoint.com/python/python_gui_programming.htm
 
